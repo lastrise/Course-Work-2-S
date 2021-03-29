@@ -1,1 +1,1 @@
-# sup2ch
+CW2S
